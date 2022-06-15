@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome%Here&fontSize=90)
 
 ### 안녕하세요 👋
-개발자가 되고싶은 박민욱입니다
+노력하는 개발자 박민욱입니다 
 <!--
 **pmw0303/pmw0303** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
